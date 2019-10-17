@@ -1,11 +1,5 @@
 # pagemap
 
-[![license][license-img]][github] [![web][web-img]][web] [![github][github-img]][github] [![npm][npm-img]][npm]  
-[![version][npm-v-img]][npm] [![downloads][npm-dm-img]][npm] [![build status][travis-img]][travis]
-
-Mini map for web pages.
-
-## Example usage
 
 ## [pagemap.js](https://larsjung.de/pagemap/)
 pagemap.js是一款基于canvas的web页面mini导航面板插件。该插件可以为web页面制作出类似sublime编辑器右侧的mini导航面板效果。
